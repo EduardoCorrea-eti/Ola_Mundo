@@ -1,3 +1,3 @@
 # Olá, Mundo!
- Primeiro repositório do curso git e github.
+ Primeiro repositório do curso git e g github...
  Criado durante aula ao vivo.
